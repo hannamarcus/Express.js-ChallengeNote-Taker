@@ -24,7 +24,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Usage:
 * npm i 
 * node server.js
-or use the live Heroku link below
+* or use the live Heroku link below
 
 ## GitHub Link: 
 https://github.com/hannamarcus/Express.js-ChallengeNote-Taker
