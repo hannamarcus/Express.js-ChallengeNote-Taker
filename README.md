@@ -22,8 +22,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ![Screen Shot 2022-10-16 at 5 22 33 PM](https://user-images.githubusercontent.com/106893601/196068256-88ae9c9a-e915-4c55-9d90-1a32fe0af813.png)
 
 ## Usage:
-* run npm i then node server.js
-or use in live Heroku link
+* npm i 
+* node server.js
+or use the live Heroku link below
 
 ## GitHub Link: 
 https://github.com/hannamarcus/Express.js-ChallengeNote-Taker
